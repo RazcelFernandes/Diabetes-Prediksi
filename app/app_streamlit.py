@@ -1,4 +1,3 @@
-from fpdf import FPDF
 import numpy as np
 import streamlit as st
 import joblib
